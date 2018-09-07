@@ -1,0 +1,571 @@
+buttons.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Achievements
+  rotate: false
+  xy: 0, 192
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Encyclopedia
+  rotate: false
+  xy: 0, 320
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Help
+  rotate: false
+  xy: 64, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Shop
+  rotate: false
+  xy: 0, 64
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Setting
+  rotate: false
+  xy: 128, 64
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Exit
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Upgrade
+  rotate: false
+  xy: 128, 192
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+About
+  rotate: false
+  xy: 128, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Rus
+  rotate: false
+  xy: 256, 64
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Uk
+  rotate: false
+  xy: 960, 896
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Be
+  rotate: false
+  xy: 1088, 896
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Eng
+  rotate: false
+  xy: 256, 192
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+VibroOn
+  rotate: false
+  xy: 192, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+VibroOff
+  rotate: false
+  xy: 256, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+SoundOn
+  rotate: false
+  xy: 192, 384
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+SoundOff
+  rotate: false
+  xy: 256, 384
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+MusicOn
+  rotate: false
+  xy: 320, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+MusicOff
+  rotate: false
+  xy: 320, 384
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Close
+  rotate: false
+  xy: 192, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+NULL
+  rotate: false
+  xy: 256, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+NULL_05
+  rotate: false
+  xy: 0, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+NULL_W
+  rotate: false
+  xy: 64, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Site
+  rotate: false
+  xy: 320, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Google
+  rotate: false
+  xy: 192, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 256, 448
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+Dangers
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Food
+  rotate: false
+  xy: 384, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Buzzard
+  rotate: false
+  xy: 512, 0
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Eagle
+  rotate: false
+  xy: 704, 0
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Falcon
+  rotate: false
+  xy: 512, 128
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Hawk
+  rotate: false
+  xy: 704, 128
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Korshun
+  rotate: false
+  xy: 384, 256
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Orlan
+  rotate: false
+  xy: 384, 384
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Osprey
+  rotate: false
+  xy: 576, 256
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Ash
+  rotate: false
+  xy: 0, 512
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Aspen
+  rotate: false
+  xy: 192, 512
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Birch
+  rotate: false
+  xy: 384, 512
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Fir
+  rotate: false
+  xy: 576, 384
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Linden
+  rotate: false
+  xy: 768, 384
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Maple
+  rotate: false
+  xy: 0, 704
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Oak
+  rotate: false
+  xy: 192, 704
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Spruce
+  rotate: false
+  xy: 384, 704
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Poplar
+  rotate: false
+  xy: 576, 576
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Pine
+  rotate: false
+  xy: 768, 576
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Willow
+  rotate: false
+  xy: 576, 768
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+BabaYaga
+  rotate: false
+  xy: 768, 768
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+Duck
+  rotate: false
+  xy: 0, 896
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Kine
+  rotate: false
+  xy: 192, 896
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Pig
+  rotate: false
+  xy: 768, 256
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Goat
+  rotate: false
+  xy: 384, 896
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+Up_lvl
+  rotate: false
+  xy: 896, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Start
+  rotate: false
+  xy: 1024, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Fly
+  rotate: false
+  xy: 1152, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Run
+  rotate: false
+  xy: 1280, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Up_dragon
+  rotate: false
+  xy: 1408, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Love_home
+  rotate: false
+  xy: 896, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+I_best
+  rotate: false
+  xy: 1024, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Banker
+  rotate: false
+  xy: 1152, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Love_eat
+  rotate: false
+  xy: 1280, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Love_duck
+  rotate: false
+  xy: 1408, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Love_goat
+  rotate: false
+  xy: 960, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Love_pig
+  rotate: false
+  xy: 1088, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Love_kine
+  rotate: false
+  xy: 1216, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Home_up
+  rotate: false
+  xy: 960, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FlyUp
+  rotate: false
+  xy: 1088, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FlyDown
+  rotate: false
+  xy: 1216, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Roar
+  rotate: false
+  xy: 960, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BonusXP
+  rotate: false
+  xy: 1088, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BonusHam
+  rotate: false
+  xy: 1216, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuyTree
+  rotate: false
+  xy: 960, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuyBirds
+  rotate: false
+  xy: 1088, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Angel
+  rotate: false
+  xy: 1216, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuyLiveStock
+  rotate: false
+  xy: 960, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UpXP
+  rotate: false
+  xy: 1088, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Facebook
+  rotate: false
+  xy: 1344, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Vkontakte
+  rotate: false
+  xy: 1344, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Twitter
+  rotate: false
+  xy: 1344, 512
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GooglePlus
+  rotate: false
+  xy: 1344, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FendOff
+  rotate: false
+  xy: 1216, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CasketXP
+  rotate: false
+  xy: 1216, 896
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CasketXam
+  rotate: false
+  xy: 1344, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
