@@ -12,7 +12,7 @@ public class Language {
     public Language() {
         textMenu = new HashMap<String, StringBuilder>();
         text = new HashMap<String, StringBuilder>();
-        textMenu.put("version", new StringBuilder("v. 1.0.9 (21)"));
+        textMenu.put("version", new StringBuilder("v. 1.0.9 (22)"));
         if (RuDragonGame.getPreference().loadLanguage().equals("ru")) {
             RuDragonGame.getTextures().onLanRus();
             textMenu.put("developerTitle", new StringBuilder("Разработчик"));

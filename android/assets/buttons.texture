@@ -569,3 +569,10 @@ CasketXam
   orig: 128, 128
   offset: 0, 0
   index: -1
+Privacy_policy
+  rotate: false
+  xy: 576, 960
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

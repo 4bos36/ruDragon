@@ -34,10 +34,12 @@ public class Credits {
         imageButton.put("Site", new Buttons("Site", RuDragonGame.getTextures().getButtonTextureSkin().getDrawable("Site"), 96, 96, RuDragonGame.WIDTH / 2 - 44, RuDragonGame.HEIGHT / 2 - 128));
         imageButton.put("Google", new Buttons("Google", RuDragonGame.getTextures().getButtonTextureSkin().getDrawable("Google"), 96, 96, RuDragonGame.WIDTH / 2 + 144, RuDragonGame.HEIGHT / 2 - 128));
         imageButton.put("Close", new Buttons("Close", RuDragonGame.getTextures().getButtonTextureSkin().getDrawable("Close"), 64, 64, RuDragonGame.WIDTH / 2 + 256, RuDragonGame.HEIGHT / 2 + 128));
+        imageButton.put("Privacy_policy", new Buttons("Privacy_policy", RuDragonGame.getTextures().getButtonTextureSkin().getDrawable("Privacy_policy"), 64, 64, RuDragonGame.WIDTH / 2 + 68, RuDragonGame.HEIGHT / 2 - 160));
 
         imageButton.get("Site").addListener(new ButtonsInputListener(imageButton.get("Site").getName()));
         imageButton.get("Google").addListener(new ButtonsInputListener(imageButton.get("Google").getName()));
         imageButton.get("Close").addListener(new ButtonsInputListener(imageButton.get("Close").getName()));
+        imageButton.get("Privacy_policy").addListener(new ButtonsInputListener(imageButton.get("Privacy_policy").getName()));
 
         developerTitle = new Label(RuDragonGame.getLanguage().textMenu.get("developerTitle"), labelStyle);
         developerName = new Label(RuDragonGame.getLanguage().textMenu.get("developerName"), labelStyle);
@@ -57,6 +59,7 @@ public class Credits {
             stage_credits.addActor(imageButton.get("Close"));
             stage_credits.addActor(imageButton.get("Site"));
             stage_credits.addActor(imageButton.get("Google"));
+            stage_credits.addActor(imageButton.get("Privacy_policy"));
             stage_credits.addActor(developerTitle);
             stage_credits.addActor(developerName);
             Gdx.input.setInputProcessor(stage_credits);
@@ -119,6 +122,8 @@ public class Credits {
                 onCredits(false);
                 RuDragonGame.getPreference().setOnWindow(true);
                 RuDragonGame.getPreference().setModalWindow(false);
+            } else if (name.equals("Privacy_policy")) {
+                Gdx.net.openURI("https://rashka.studio/privacy-policy");
             }
         }
     }
